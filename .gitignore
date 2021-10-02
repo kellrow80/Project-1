@@ -1,3 +1,9 @@
+#API Key
+config.py
+
+#Mac Compatibility
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
